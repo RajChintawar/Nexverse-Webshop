@@ -54,11 +54,7 @@ main {
     text-align: center;
 }
 
-.product:hover{
-transform:scale(1.2) ;
-z-index:2 ;
 
-}
 
 .product img {
     max-width: 100%;
