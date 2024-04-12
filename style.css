@@ -51,6 +51,10 @@ main {
     padding: 20px;
     text-align: center;
 }
+.product:hover{
+    transform(1.02)
+    z-index:2 ;
+}
 
 
 
